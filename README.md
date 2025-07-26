@@ -41,7 +41,7 @@ HDR was accidentally enabled — sorry! Not retaking them 😅
 ## 📦 Installation
 
 1. Download or clone this repo
-2. Place the `oGlow` folder in your `Interface/AddOns` directory
+2. Place the `oGlow252J` folder in your `Interface/AddOns` directory
 3. Restart WoW or reload UI
 
 ## 📄 License
