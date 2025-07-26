@@ -2,8 +2,6 @@
 
 A reverse-engineered and ported version of the original [oGlow](https://github.com/haste/oGlow) addon, adapted for the 2.5.2 TBC Classic client. This project revives the glow system for item quality across various UI frames.
 
-> ⚠️ LUA is new to me — I'm primarily a web developer — so this is a learning project. That said, it's working well on two test machines!
-
 ## ✨ Features
 
 - ✅ Merchant frame

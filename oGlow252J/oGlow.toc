@@ -1,0 +1,21 @@
+## Interface: 20502
+## Title: oGlow
+## Author: Haste
+## Update / Edit: Janxz
+## Version: 1.12
+## X-eMail: troeks@gmail.com
+## Edit Email: janlopezdobrusin@hotmail.com
+## X-Website: http://fuxsake.net/
+## Notes: Make your shiny items... glow in the dark!
+
+core\glow.lua
+core\bags.lua
+core\char.lua
+core\inspect.lua
+core\bank.lua
+core\gbank.lua
+core\trade.lua
+core\tradeskill.lua
+core\craft.lua
+core\merchant.lua
+core\mail.lua
